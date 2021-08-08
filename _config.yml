@@ -1,3 +1,4 @@
+source: strats
 theme: jekyll-theme-midnight
 collections:
    - raids
