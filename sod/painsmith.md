@@ -2,7 +2,7 @@
 title: Painsmith Raznal
 layout: boss-strat
 vod: https://www.youtube.com/watch?v=B8n9o5ilzbw
-icon: /assets/painsmith/painsmith.png
+icon: ../assets/painsmith/painsmith.png
 ---
 
 # Phase 1
